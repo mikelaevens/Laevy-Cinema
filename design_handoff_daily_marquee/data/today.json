@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-17",
+  "dateLabel": "Wednesday · June 17, 2026",
+  "venues": {
+    "newBeverly": {
+      "key": "new_beverly",
+      "status": "open",
+      "showings": [
+        { "title": "Breakfast at Tiffany's", "times": ["7:30"], "tag": "" },
+        { "title": "Roman Holiday", "times": ["9:55"], "tag": "" }
+      ]
+    },
+    "vista": {
+      "key": "vista",
+      "status": "open",
+      "showings": [
+        { "title": "Disclosure Day", "times": ["3:00", "7:30"], "tag": "70mm" },
+        { "title": "Beginners", "times": ["2:00"], "tag": "Video Archives" }
+      ]
+    },
+    "cinematheque": {
+      "key": "cinematheque",
+      "status": "open",
+      "showings": [],
+      "aero": [
+        { "title": "Inherent Vice", "times": ["7:30"], "tag": "70mm" }
+      ],
+      "losFeliz": []
+    },
+    "musicBox": {
+      "key": "music_box",
+      "status": "open",
+      "showings": [
+        { "title": "The Last One for the Road", "times": ["4:15"], "tag": "" },
+        { "title": "Carolina Caroline", "times": ["4:30"], "tag": "" },
+        { "title": "Gregg Allman: Music of My Soul", "times": ["7:00"], "tag": "" }
+      ]
+    },
+    "filmForum": {
+      "key": "film_forum",
+      "status": "open",
+      "showings": [
+        { "title": "Promised Sky", "times": ["12:15", "4:30", "8:50"], "tag": "" },
+        { "title": "The Third Man", "times": ["12:50", "6:00", "8:30"], "tag": "35mm" },
+        { "title": "Days and Nights in the Forest", "times": ["12:30", "5:30", "8:00"], "tag": "" },
+        { "title": "No Picnic", "times": ["12:20", "8:45"], "tag": "" },
+        { "title": "After Life", "times": ["6:00"], "tag": "YFF Archive Dive" }
+      ]
+    },
+    "metrograph": {
+      "key": "metrograph",
+      "status": "open",
+      "showings": [
+        { "title": "Vanya on 42nd Street", "times": ["4:00"], "tag": "" },
+        { "title": "Grave of the Fireflies", "times": ["4:45"], "tag": "" },
+        { "title": "Andrei Rublev", "times": ["6:30"], "tag": "35mm" },
+        { "title": "Farewell My Concubine", "times": ["7:00"], "tag": "" },
+        { "title": "School on Fire", "times": ["10:20"], "tag": "" },
+        { "title": "Fallen Angels", "times": ["10:25"], "tag": "" }
+      ]
+    }
+  }
+}
